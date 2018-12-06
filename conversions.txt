@@ -1,2 +1,8 @@
-testing
+Conversions
+- Rands To Cents
+	Multiply by 100
+- Km TO M
+        Multiply by 1000
+- Litre to ml
+	Multiply by 1000
 
